@@ -1,0 +1,146 @@
+job_id,skill_name,skill_category
+1,SQL,Database
+1,Python,Programming
+1,PySpark,Data Engineering
+1,MS Office,Business Tool
+2,SQL,Database
+2,Data Warehouse,Data Engineering
+2,ELT,Data Engineering
+2,Data Modeling,Data Engineering
+2,Data Analysis,Analytics
+2,Reporting,Analytics
+3,Tableau,BI Tool
+3,Power BI,BI Tool
+3,Snowflake,Data Warehouse
+3,Machine Learning,AI/ML
+3,AI Agents,AI/ML
+3,Forecasting,Analytics
+3,Alteryx,Data Tool
+3,RPA,Automation
+3,German,Language
+3,English,Language
+4,SAP Analytics Cloud,BI Tool
+4,Data Analysis,Analytics
+4,Reporting,Analytics
+5,Excel,Business Tool
+5,Google Sheets,Business Tool
+5,Databricks,Data Engineering
+5,Data Analysis,Analytics
+5,Reporting,Analytics
+5,CRM,Marketing Analytics
+5,Klaviyo,Marketing Tool
+6,SQL,Database
+6,Python,Programming
+6,Power BI,BI Tool
+6,Google Sheets,Business Tool
+6,Databricks,Data Engineering
+6,Data Modeling,Data Engineering
+6,Data Quality,Data Engineering
+6,Statistics,Analytics
+6,Reporting,Analytics
+6,German,Language
+6,English,Language
+7,SQL,Database
+7,Python,Programming
+7,Databricks,Data Engineering
+7,Machine Learning,AI/ML
+7,Data Analysis,Analytics
+7,German,Language
+7,English,Language
+8,Power BI,BI Tool
+8,Excel,Business Tool
+8,MS Office,Business Tool
+8,PowerPoint,Business Tool
+8,Data Warehouse,Data Engineering
+8,Data Quality,Data Engineering
+8,Data Analysis,Analytics
+8,KPI,Analytics
+9,SQL,Database
+9,Python,Programming
+9,R,Programming
+9,Tableau,BI Tool
+9,Power BI,BI Tool
+9,Looker Studio,BI Tool
+9,Excel,Business Tool
+9,Data Quality,Data Engineering
+9,Statistics,Analytics
+9,Data Analysis,Analytics
+9,Data Visualization,Analytics
+9,Reporting,Analytics
+10,SQL,Database
+10,Python,Programming
+10,Tableau,BI Tool
+10,Power BI,BI Tool
+10,Qlik,BI Tool
+10,Statistics,Analytics
+10,German,Language
+10,English,Language
+11,SAP Analytics Cloud,BI Tool
+11,SAP Business Objects,BI Tool
+11,SAP BW,Data Warehouse
+11,SAP Datasphere,Data Warehouse
+11,ETL,Data Engineering
+11,Reporting,Analytics
+12,SQL,Database
+12,Python,Programming
+12,Scala,Programming
+12,Data Lake,Data Engineering
+12,Spark,Data Engineering
+12,Apache Spark,Data Engineering
+12,Data Quality,Data Engineering
+12,AWS,Cloud
+12,Machine Learning,AI/ML
+12,English,Language
+13,SQL,Database
+13,JavaScript,Programming
+13,TypeScript,Programming
+13,SAP HANA Cloud,Database
+13,Data Modeling,Data Engineering
+13,API,Data Engineering
+13,REST API,Data Engineering
+13,Git,Version Control
+13,Azure DevOps,DevOps
+13,Linux,Operating System
+13,Unix,Operating System
+13,Bash,Operating System
+13,Azure,Cloud
+13,SCRUM,Project Methodology
+13,English,Language
+14,SQL,Database
+14,Python,Programming
+14,Power BI,BI Tool
+14,Lakehouse,Data Engineering
+14,Spark,Data Engineering
+14,Data Governance,Data Engineering
+14,dbt,Data Engineering
+14,Git,Version Control
+14,Microsoft Fabric,Data Platform
+14,Microsoft Dynamics 365,Business Platform
+14,Reporting,Analytics
+15,SQL,Database
+15,Python,Programming
+15,ABAP,Programming
+15,SAP Analytics Cloud,BI Tool
+15,SAP Datasphere,Data Warehouse
+15,Data Warehouse,Data Engineering
+16,SQL,Database
+16,Python,Programming
+16,MS Office,Business Tool
+17,SQL,Database
+17,Python,Programming
+17,Power BI,BI Tool
+17,SAP BW,Data Warehouse
+17,NoSQL,Database
+17,MS SQL,Database
+18,ETL,Data Engineering
+19,SQL,Database
+19,Oracle,Database
+19,Data Warehouse,Data Engineering
+19,ETL,Data Engineering
+20,SQL,Database
+20,Qlik,BI Tool
+20,Qlik View,BI Tool
+20,Qlik Cloud,BI Tool
+20,NoSQL,Database
+20,ETL,Data Engineering
+20,Reporting,Analytics

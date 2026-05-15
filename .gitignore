@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# System files
+.DS_Store
+
+# Private/raw data should not be public
+data/raw/
+data/processed/
+data/tableau/
+
+# Tableau workbook files can be large/private
+*.twb
+*.twbx

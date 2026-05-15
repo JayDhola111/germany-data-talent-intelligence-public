@@ -1,0 +1,45 @@
+role_category,skill_rank,skill_name,skill_category,job_count
+AI / ML,1,Data Analysis,Analytics,1
+AI / ML,2,Databricks,Data Engineering,1
+AI / ML,3,English,Language,1
+AI / ML,4,German,Language,1
+AI / ML,5,Machine Learning,AI/ML,1
+AI / ML,6,Python,Programming,1
+AI / ML,7,SQL,Database,1
+BI / Reporting,1,SQL,Database,8
+BI / Reporting,2,Power BI,BI Tool,7
+BI / Reporting,3,Python,Programming,6
+BI / Reporting,4,Reporting,Analytics,6
+BI / Reporting,5,ETL,Data Engineering,4
+BI / Reporting,6,Data Analysis,Analytics,3
+BI / Reporting,7,Data Quality,Data Engineering,3
+BI / Reporting,8,Data Warehouse,Data Engineering,3
+BI / Reporting,9,English,Language,3
+BI / Reporting,10,German,Language,3
+Data Analytics,1,CRM,Marketing Analytics,1
+Data Analytics,2,Data Analysis,Analytics,1
+Data Analytics,3,Databricks,Data Engineering,1
+Data Analytics,4,Excel,Business Tool,1
+Data Analytics,5,Google Sheets,Business Tool,1
+Data Analytics,6,Klaviyo,Marketing Tool,1
+Data Analytics,7,Reporting,Analytics,1
+Data Engineering,1,SQL,Database,2
+Data Engineering,2,AWS,Cloud,1
+Data Engineering,3,Apache Spark,Data Engineering,1
+Data Engineering,4,Data Analysis,Analytics,1
+Data Engineering,5,Data Lake,Data Engineering,1
+Data Engineering,6,Data Modeling,Data Engineering,1
+Data Engineering,7,Data Quality,Data Engineering,1
+Data Engineering,8,Data Warehouse,Data Engineering,1
+Data Engineering,9,ELT,Data Engineering,1
+Data Engineering,10,English,Language,1
+Other Data Role,1,SQL,Database,3
+Other Data Role,2,MS Office,Business Tool,2
+Other Data Role,3,Python,Programming,2
+Other Data Role,4,API,Data Engineering,1
+Other Data Role,5,Azure,Cloud,1
+Other Data Role,6,Azure DevOps,DevOps,1
+Other Data Role,7,Bash,Operating System,1
+Other Data Role,8,Data Modeling,Data Engineering,1
+Other Data Role,9,English,Language,1
+Other Data Role,10,Git,Version Control,1

@@ -1,0 +1,66 @@
+skill_name,skill_category,job_count,job_percentage
+SQL,Database,14,70.0
+Python,Programming,10,50.0
+Reporting,Analytics,8,40.0
+Power BI,BI Tool,7,35.0
+Data Analysis,Analytics,6,30.0
+English,Language,6,30.0
+Data Quality,Data Engineering,4,20.0
+Data Warehouse,Data Engineering,4,20.0
+ETL,Data Engineering,4,20.0
+German,Language,4,20.0
+Data Modeling,Data Engineering,3,15.0
+Databricks,Data Engineering,3,15.0
+Excel,Business Tool,3,15.0
+MS Office,Business Tool,3,15.0
+Machine Learning,AI/ML,3,15.0
+SAP Analytics Cloud,BI Tool,3,15.0
+Statistics,Analytics,3,15.0
+Tableau,BI Tool,3,15.0
+Git,Version Control,2,10.0
+Google Sheets,Business Tool,2,10.0
+NoSQL,Database,2,10.0
+Qlik,BI Tool,2,10.0
+SAP BW,Data Warehouse,2,10.0
+SAP Datasphere,Data Warehouse,2,10.0
+Spark,Data Engineering,2,10.0
+ABAP,Programming,1,5.0
+AI Agents,AI/ML,1,5.0
+API,Data Engineering,1,5.0
+AWS,Cloud,1,5.0
+Alteryx,Data Tool,1,5.0
+Apache Spark,Data Engineering,1,5.0
+Azure,Cloud,1,5.0
+Azure DevOps,DevOps,1,5.0
+Bash,Operating System,1,5.0
+CRM,Marketing Analytics,1,5.0
+Data Governance,Data Engineering,1,5.0
+Data Lake,Data Engineering,1,5.0
+Data Visualization,Analytics,1,5.0
+ELT,Data Engineering,1,5.0
+Forecasting,Analytics,1,5.0
+JavaScript,Programming,1,5.0
+KPI,Analytics,1,5.0
+Klaviyo,Marketing Tool,1,5.0
+Lakehouse,Data Engineering,1,5.0
+Linux,Operating System,1,5.0
+Looker Studio,BI Tool,1,5.0
+MS SQL,Database,1,5.0
+Microsoft Dynamics 365,Business Platform,1,5.0
+Microsoft Fabric,Data Platform,1,5.0
+Oracle,Database,1,5.0
+PowerPoint,Business Tool,1,5.0
+PySpark,Data Engineering,1,5.0
+Qlik Cloud,BI Tool,1,5.0
+Qlik View,BI Tool,1,5.0
+R,Programming,1,5.0
+REST API,Data Engineering,1,5.0
+RPA,Automation,1,5.0
+SAP Business Objects,BI Tool,1,5.0
+SAP HANA Cloud,Database,1,5.0
+SCRUM,Project Methodology,1,5.0
+Scala,Programming,1,5.0
+Snowflake,Data Warehouse,1,5.0
+TypeScript,Programming,1,5.0
+Unix,Operating System,1,5.0
+dbt,Data Engineering,1,5.0
