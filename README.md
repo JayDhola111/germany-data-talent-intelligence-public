@@ -442,15 +442,15 @@ If screenshots are added, they can be displayed here:
 
 ### Dashboard 1: Market Overview
 
-<!-- ![Market Overview](dashboard/screenshots/dashboard_1_market_overview.png) -->
+![Market Overview](dashboard/screenshots/dashboard_1_market_overview.png)
 
 ### Dashboard 2: Skill Demand
 
-<!-- ![Skill Demand](dashboard/screenshots/dashboard_2_skill_demand.png) -->
+![Skill Demand](dashboard/screenshots/dashboard_2_skill_demand.png)
 
 ### Dashboard 3: Entry-Level Opportunities
 
-<!-- ![Entry-Level Opportunities](dashboard/screenshots/dashboard_3_entry_level_opportunities.png) -->
+![Entry-Level Opportunities](dashboard/screenshots/dashboard_3_entry_level_opportunities.png)
 
 ---
 
